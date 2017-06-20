@@ -5,7 +5,7 @@ ILI9328 requires SPI_MODE3. But SPI_MODE2 and SPI_MODE3 configuration are invert
 If your arduino-esp32 has correct SPI configuration, you need to change to SPI_MODE3. 
 See ili9328.cpp.
 
-![Tetris](doc/Tetris.jpg)
+![Tetris](doc/Tetris.jpeg)
 
 ## Prepare
 - [ESP32-DevKitC](http://akizukidenshi.com/catalog/g/gM-11819/) ESP32 : 秋月電子
